@@ -1,6 +1,17 @@
+<h1 align="center">
+<br>
+  <img src="img/dom-array-methods.png" width="600">
+  <br>
+    <br>
+  JavaScript - Dom Array Methods
+  <br>
+</h1>
+
+<h3 align="center">Interactive Front End Development</h3>
+
 ## DOM Array Methods
 
-Project to teach high order array methods and DOM manipulation
+forEach, map, sort, filter, reduce
 
 ## Project Specifications
 
